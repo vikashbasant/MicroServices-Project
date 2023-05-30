@@ -1,3 +1,8 @@
+# Server Port Number:
+spring:
+    application: 
+        name: CONFIG-DEFAULT
+        
 # Eureka client configuration
 eureka:
     instance:
